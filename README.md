@@ -9,7 +9,7 @@ Certificates of the Undertaken Online Courses
 > > ##### *Course 1 - [Excel Skills for Business: Essentials](https://www.coursera.org/account/accomplishments/verify/FCC6EBBTYXXG)*
 > > ##### *Course 2 - [Excel Skills for Business: Intermediate I](https://www.coursera.org/learn/excel-intermediate-1?specialization=excel)* `Ongoing`
 ---
-#### `Google Data Analytics, Coursera` [View](https://www.coursera.org/professional-certificates/google-data-analytics)
+#### `Google Data Analytics Specialization, Coursera` [View](https://www.coursera.org/professional-certificates/google-data-analytics)
 > > ##### *Course 1 - [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/verify/EZK8SC3P93US)*
 > > ##### *Course 2 - [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/verify/S9AM8UEY9YY2)*
 > > ##### *Course 3 - [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation?specialization=google-data-analytics)* `Ongoing`
@@ -44,4 +44,5 @@ Certificates of the Undertaken Online Courses
 > > ##### *Course 5 - [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/certificate/RDR4MNX5SRFW)*
 
 ---
-
+#### [AutoCAD - Sep 2020](https://drive.google.com/file/d/1YXH6umi_z7lc9OELLaElOf6ZVA8eUfro/view)
+---
