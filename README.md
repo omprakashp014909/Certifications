@@ -44,5 +44,5 @@ Certificates of the Undertaken Online Courses
 > > ##### *Course 5 - [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/certificate/RDR4MNX5SRFW)*
 
 ---
-#### [AutoCAD - Sep 2020](https://drive.google.com/file/d/1YXH6umi_z7lc9OELLaElOf6ZVA8eUfro/view)
+#### [AutoCAD 2D - Sep 2020](https://drive.google.com/file/d/1YXH6umi_z7lc9OELLaElOf6ZVA8eUfro/view)
 ---
