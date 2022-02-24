@@ -14,6 +14,10 @@ Certificates of the Undertaken Online Courses
 > > ##### *Course 2 - [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/verify/S9AM8UEY9YY2)*
 > > ##### *Course 3 - [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation?specialization=google-data-analytics)* `Ongoing`
 ---
+#### `English Language Skills A2-B1 CEFR: Low-Intermediate Specialization` [View](https://www.coursera.org/specializations/english-a2-b1-low-intermediate)
+>> ##### *Course 1 -[Meet & Greet]()*
+>> ##### *Course 2 -[Calls & Messaging](https://www.coursera.org/account/accomplishments/verify/VZ8JYYHXV5SQ)*
+---
 #### [Excel Fundamentals for Data Analysis, Coursera - Feb 2022](https://www.coursera.org/account/accomplishments/verify/YABHCG3T3WTP)
 ---
 #### [Write Professional Emails in English offered, Coursera - Jan 2022](https://www.coursera.org/account/accomplishments/verify/KGAKBEZ6ZGXA)
