@@ -20,7 +20,7 @@ Certificates of the Undertaken Online Courses
 ---
 #### [Excel Fundamentals for Data Analysis, Coursera - Feb 2022](https://www.coursera.org/account/accomplishments/verify/YABHCG3T3WTP)
 ---
-#### [Learning How to Learn, COursera - Feb 2022](https://www.coursera.org/account/accomplishments/verify/H7RRNYLBGB4N)
+#### [Learning How to Learn, Coursera - Feb 2022](https://www.coursera.org/account/accomplishments/verify/H7RRNYLBGB4N)
 ---
 #### [Write Professional Emails in English offered, Coursera - Jan 2022](https://www.coursera.org/account/accomplishments/verify/KGAKBEZ6ZGXA)
 ---
