@@ -7,12 +7,14 @@ Certificates of the Undertaken Online Courses
 ---
 #### `Excel Skills for Business Specialization, Coursera` [View](https://www.coursera.org/specializations/excel)
 > > ##### *Course 1 - [Excel Skills for Business: Essentials](https://www.coursera.org/account/accomplishments/verify/FCC6EBBTYXXG)*
-> > ##### *Course 2 - [Excel Skills for Business: Intermediate I](https://www.coursera.org/learn/excel-intermediate-1?specialization=excel)* `Ongoing`
+> > ##### *Course 2 - [Excel Skills for Business: Intermediate I]()* 
+> > ##### *Course 3 - []()* `Ongoing`
 ---
 #### `Google Data Analytics Specialization, Coursera` [View](https://www.coursera.org/professional-certificates/google-data-analytics)
 > > ##### *Course 1 - [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/verify/EZK8SC3P93US)*
 > > ##### *Course 2 - [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/verify/S9AM8UEY9YY2)*
-> > ##### *Course 3 - [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation?specialization=google-data-analytics)* `Ongoing`
+> > ##### *Course 3 - [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/verify/EKMA957VSFLE)*
+> > ##### *Course 4 - [Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data?specialization=google-data-analytics)*`Ongoing`
 ---
 #### `English Language Skills A2-B1 CEFR: Low-Intermediate Specialization` [View](https://www.coursera.org/specializations/english-a2-b1-low-intermediate)
 >> ##### *Course 1 -[Meet & Greet]()*
