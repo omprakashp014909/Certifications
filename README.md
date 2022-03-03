@@ -7,8 +7,8 @@ Certificates of the Undertaken Online Courses
 ---
 #### `Excel Skills for Business Specialization, Coursera` [View](https://www.coursera.org/specializations/excel)
 > > ##### *Course 1 - [Excel Skills for Business: Essentials](https://www.coursera.org/account/accomplishments/verify/FCC6EBBTYXXG)*
-> > ##### *Course 2 - [Excel Skills for Business: Intermediate I]()* 
-> > ##### *Course 3 - []()* `Ongoing`
+> > ##### *Course 2 - [Excel Skills for Business: Intermediate I](https://www.coursera.org/account/accomplishments/verify/XFQMM2ESHBNP)* 
+> > ##### *Course 3 - [Excel Skills for Business: Intermediate II](https://www.coursera.org/learn/excel-intermediate-2?specialization=excel)* `Ongoing`
 ---
 #### `Google Data Analytics Specialization, Coursera` [View](https://www.coursera.org/professional-certificates/google-data-analytics)
 > > ##### *Course 1 - [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/verify/EZK8SC3P93US)*
