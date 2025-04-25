@@ -1,26 +1,24 @@
 # Certifications
 Certificates of the Undertaken Online Courses
 ---
----
-#### `Fundamentals of Computing Specialization` [View](https://www.coursera.org/specializations/computer-fundamentals)
-> > ##### *Course 1 - [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1?specialization=computer-fundamentals)* `Ongoing`
+
 ---
 #### `Excel Skills for Business Specialization, Coursera` [View](https://www.coursera.org/specializations/excel)
 > > ##### *Course 1 - [Excel Skills for Business: Essentials](https://www.coursera.org/account/accomplishments/verify/FCC6EBBTYXXG)*
-> > ##### *Course 2 - [Excel Skills for Business: Intermediate I](https://www.coursera.org/account/accomplishments/verify/XFQMM2ESHBNP)* 
-> > ##### *Course 3 - [Excel Skills for Business: Intermediate II](https://www.coursera.org/learn/excel-intermediate-2?specialization=excel)* `Ongoing`
+> > ##### *Course 2 - [Excel Skills for Business: Intermediate I](https://www.coursera.org/account/accomplishments/verify/XFQMM2ESHBNP)*
+> > [Excel Fundamentals for Data Analysis, Coursera - Feb 2022](https://www.coursera.org/account/accomplishments/verify/YABHCG3T3WTP)
 ---
 #### `Google Data Analytics Specialization, Coursera` [View](https://www.coursera.org/professional-certificates/google-data-analytics)
 > > ##### *Course 1 - [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/verify/EZK8SC3P93US)*
 > > ##### *Course 2 - [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/verify/S9AM8UEY9YY2)*
 > > ##### *Course 3 - [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/verify/EKMA957VSFLE)*
-> > ##### *Course 4 - [Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data?specialization=google-data-analytics)*`Ongoing`
+> > ##### *Course 4 - [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/verify/EB5LSD2RFH27)*
+> > ##### *Course 5 - [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/verify/VAY9VW8YHLHC)*
+> > ##### *Course 6 - [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/verify/88HPSDVCXBT5)*
 ---
 #### `English Language Skills A2-B1 CEFR: Low-Intermediate Specialization` [View](https://www.coursera.org/specializations/english-a2-b1-low-intermediate)
 >> ##### *Course 1 -[Meet & Greet]()*
 >> ##### *Course 2 -[Calls & Messaging](https://www.coursera.org/account/accomplishments/verify/VZ8JYYHXV5SQ)*
----
-#### [Excel Fundamentals for Data Analysis, Coursera - Feb 2022](https://www.coursera.org/account/accomplishments/verify/YABHCG3T3WTP)
 ---
 #### [Learning How to Learn, Coursera - Feb 2022](https://www.coursera.org/account/accomplishments/verify/H7RRNYLBGB4N)
 ---
