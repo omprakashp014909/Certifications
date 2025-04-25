@@ -8,15 +8,15 @@
 > > ##### *Course 4: [Introduction to Capital Markets](https://www.coursera.org/learn/introduction-to-capital-markets?specialization=finance-and-financial-markets)* : Ongoing
 ---
 #### `Google Advanced Data Analytics Professional Certificate, Coursera`[View](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
-> > ##### *Course 1: March,2025 - [Foundations of Data Science](https://www.coursera.org/account/accomplishments/verify/H28WKHA1WNPZ)*
+> > ##### *Course 1:  [Foundations of Data Science](https://www.coursera.org/account/accomplishments/verify/H28WKHA1WNPZ)* - Mar 2025
 > > ##### *Course 2: [Get Started with Python](https://www.coursera.org/learn/get-started-with-python?specialization=google-advanced-data-analytics)* : Ongoing
 > > ##### *Course 4: [The Power of Statistics](https://www.coursera.org/learn/the-power-of-statistics?specialization=google-advanced-data-analytics)* : Ongoing
 ---
 #### `Google Looker and LookML, cloudskillsboost.google/` [View](https://www.cloudskillsboost.google/public_profiles/a000e0ab-a9f2-4bcb-af4d-fda2010c22aa)
->> ##### Applying Advance LookML concepts in Looker [View](https://www.cloudskillsboost.google/public_profiles/a000e0ab-a9f2-4bcb-af4d-fda2010c22aa/badges/13468343) - Jan 2025
->> ##### Understanding LookML in Looker [View](https://www.cloudskillsboost.google/public_profiles/a000e0ab-a9f2-4bcb-af4d-fda2010c22aa/badges/11488284) - Sep 2024
->> ##### Developing Data Models with LookML [View](https://www.cloudskillsboost.google/public_profiles/a000e0ab-a9f2-4bcb-af4d-fda2010c22aa/badges/8603266) - Apr 2024
->> ##### Analyzing and visualizing data with Looker [View](https://www.cloudskillsboost.google/public_profiles/a000e0ab-a9f2-4bcb-af4d-fda2010c22aa/badges/8511964) - Apr 2024
+>> ##### [Applying Advance LookML concepts in Looker](https://www.cloudskillsboost.google/public_profiles/a000e0ab-a9f2-4bcb-af4d-fda2010c22aa/badges/13468343) - Jan 2025
+>> ##### [Understanding LookML in Looker](https://www.cloudskillsboost.google/public_profiles/a000e0ab-a9f2-4bcb-af4d-fda2010c22aa/badges/11488284) - Sep 2024
+>> ##### [Developing Data Models with LookML](https://www.cloudskillsboost.google/public_profiles/a000e0ab-a9f2-4bcb-af4d-fda2010c22aa/badges/8603266) - Apr 2024
+>> ##### [Analyzing and visualizing data with Looker](https://www.cloudskillsboost.google/public_profiles/a000e0ab-a9f2-4bcb-af4d-fda2010c22aa/badges/8511964) - Apr 2024
 ---
 #### [Microsoft Power BI Desktop for Business Intelligence, Udemy](https://www.udemy.com/certificate/UC-f6cf2c2b-6014-47ff-b7af-aa7942d87271/) - Dec 2023
 >> #### [DAX, sqlbi](https://drive.google.com/file/d/1ogKkI7tIMIRlTFLoiQMQN5maBQN0L-2L/view) - Jan 2023
