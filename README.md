@@ -5,7 +5,7 @@
 ---
 # Online Certifications
 #### `Preparatory Certificate in Finance and Financial Markets Specializatione, Coursera` [View](https://www.coursera.org/specializations/finance-and-financial-markets)
-> > ##### *Course 4: [Introduction to Capital Markets](https://www.coursera.org/learn/introduction-to-capital-markets?specialization=finance-and-financial-markets)*
+> > ##### *Course 4: [Introduction to Capital Markets](https://www.coursera.org/learn/introduction-to-capital-markets?specialization=finance-and-financial-markets)* : Ongoing
 ---
 #### `Google Advanced Data Analytics Professional Certificate, Coursera`[View](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
 > > ##### *Course 1: March,2025 - [Foundations of Data Science](https://www.coursera.org/account/accomplishments/verify/H28WKHA1WNPZ)*
@@ -18,8 +18,8 @@
 >> ##### Developing Data Models with LookML [View](https://www.cloudskillsboost.google/public_profiles/a000e0ab-a9f2-4bcb-af4d-fda2010c22aa/badges/8603266) - Apr 2024
 >> ##### Analyzing and visualizing data with Looker [View](https://www.cloudskillsboost.google/public_profiles/a000e0ab-a9f2-4bcb-af4d-fda2010c22aa/badges/8511964) - Apr 2024
 ---
-#### `Microsoft Power BI Desktop for Business Intelligence, Udemy` [View](https://www.udemy.com/certificate/UC-f6cf2c2b-6014-47ff-b7af-aa7942d87271/) - Dec 2023
->> #### DAX, sqlbi [View](https://drive.google.com/file/d/1ogKkI7tIMIRlTFLoiQMQN5maBQN0L-2L/view) - Jan 2023
+#### [Microsoft Power BI Desktop for Business Intelligence, Udemy](https://www.udemy.com/certificate/UC-f6cf2c2b-6014-47ff-b7af-aa7942d87271/) - Dec 2023
+>> #### [DAX, sqlbi](https://drive.google.com/file/d/1ogKkI7tIMIRlTFLoiQMQN5maBQN0L-2L/view) - Jan 2023
 ---
 #### `IBM Data Engineering Professional Certificate, Coursera`[View](https://www.coursera.org/professional-certificates/ibm-data-engineer)
 > > ##### *Course 1: - [Introduction to Data Engineering](https://www.coursera.org/account/accomplishments/verify/ZJ52FMXEVCKS)*
@@ -30,8 +30,8 @@
 > > ##### *Course 6: - [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/account/accomplishments/verify/MHXUMHEDFQSS)* - Nov 2023
 ---
 #### `SQL`
->> ##### `Introduction to SQL using Google BigQuery, LinkedIn` [View](https://www.linkedin.com/in/omprakashp014909/details/certifications/) - Apr 2024
->> ##### `MySQL Bootcamp, Udemy` [View](https://www.udemy.com/certificate/UC-018ac611-20d8-4ab8-a14f-49635e2dfa8a/) - Aug 2023
+>> ##### [Introduction to SQL using Google BigQuery, LinkedIn](https://www.linkedin.com/in/omprakashp014909/details/certifications/) - Apr 2024
+>> ##### [MySQL Bootcamp, Udemy](https://www.udemy.com/certificate/UC-018ac611-20d8-4ab8-a14f-49635e2dfa8a/) - Aug 2023
 ---
 #### `Excel Skills for Business Specialization, Coursera` [View](https://www.coursera.org/specializations/excel)
 > > ##### *Course 1 - [Excel Skills for Business: Essentials](https://www.coursera.org/account/accomplishments/verify/FCC6EBBTYXXG)*
